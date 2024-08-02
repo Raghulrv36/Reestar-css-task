@@ -1,0 +1,53 @@
+.title{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.container-one__image,.container-three__image{
+    width: 280px;
+    height: 300px;
+    
+}
+.container-two__image{
+    width: 310px;
+    height: 300px;
+}
+.container-four__image{
+    width: 310px;
+    height: 300px;
+}
+.container-one,.container-two,.container-three,.container-four{
+    border: solid black 2px;
+    margin-top: 10px;
+    text-align: center;
+    display: inline-block;
+    background-color: lightgoldenrodyellow;
+    
+}
+
+.container-one__button,.container-two__button,.container-three__button,.container-four__button{
+    background-color: black;
+    color: white;
+}
+.container{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.contact-form{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+}
+.contact-form__button{
+    background-color: lawngreen;
+    color: black;
+    width: 380px;
+    text-align: center;
+}
+.contact-form__table{
+    padding-left: 460px;
+}
